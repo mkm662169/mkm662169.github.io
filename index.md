@@ -6,13 +6,17 @@ The following is a guide on a few basic commands useful in Windows Powershell, D
 
 # Powershell
 
-1. Get-Process
+1. Get-Process: Outputs a list of the processes running along with their process IDs. Generally used in conjunction with "stop-process"
 
-2. New-Item
+2. New-Item: A command used for the creation of files and directories. The syntax is as follows:
 
-3. dir
+New-Item "Path" -ItemType "File/Folder"
 
-4. cd
+3. dir: Used to list the files and directories of the current working directory.
+
+4. cd: Used to change teh current working directory. It is of the syntax:
+
+cd "Path"
 
 # Docker
 
