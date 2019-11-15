@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+## COURSE PROJECT
 
-You can use the [editor on GitHub](https://github.com/mkm662169/mkm662169.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# PART 1 : REFERENCE GUIDE
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The following is a guide on a few basic commands useful in Windows Powershell, Docker, Bash, and Git.
 
-### Markdown
+# Powershell
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Get-Process
 
-```markdown
-Syntax highlighted code block
+2. New-Item
 
-# Header 1
-## Header 2
-### Header 3
+3. dir
 
-- Bulleted
-- List
+4. cd
 
-1. Numbered
-2. List
+# Docker
 
-**Bold** and _Italic_ and `Code` text
+1. docker commit
 
-[Link](url) and ![Image](src)
-```
+2. docker image/images
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+3. docker kill
 
-### Jekyll Themes
+4. docker push/pull
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mkm662169/mkm662169.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+5. docker restart
 
-### Support or Contact
+6. docker login/logout
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+7. docker rm
+
+# Bash
+
+1. ls
+
+2. touch
+
+3. mkdir
+
+# Git
+
+1. git branch -b ...
+
+2, git checkout ...
+
+3. git push/pull
+
+4. git commit -m " "
+
+5. git add " "
