@@ -14,13 +14,20 @@ The following is a guide on a few basic commands useful in Windows Powershell, D
 
 4. cd "Path": Used to change from the current directory to the specified path.
 
+   Image
+   
+   The command "cd .." is used to go to the previous directory.
+   
+   Image
+   
+   
 # Docker
 
-1. docker commit: Allows users to take a running container and save its current state as an image.
+1. docker commit "container_ID": Allows users to take a running container and save its current state as an image. The container ID is acquired by listing all the available containers.
 
 2. docker images: Lists all current images in the docker container.
 
-3. docker kill: Kill one or more running containers
+3. docker kill "container_ID": Kill one or more running containers.
 
 # Bash
 
