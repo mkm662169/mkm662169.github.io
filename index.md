@@ -41,6 +41,6 @@ The following is a guide on a few basic commands useful in Windows Powershell, D
 
 1. git branch -b "branch_name": Used to create a branch "branch_name"
 
-2, git checkout "branch_name": Used to change from one branch to the branch specified.
+2. git checkout "branch_name": Used to change from one branch to the branch specified.
 
 3. git commit -m "Custom_message": Used to clarify the commit to be made. Displays teh message to master for approval of the commit.
