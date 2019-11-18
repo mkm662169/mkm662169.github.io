@@ -6,8 +6,9 @@ The following is a guide on a few basic commands useful in Windows Powershell, D
 
 # Powershell
 
-1. Get-Process: Outputs a list of the processes running along with their process IDs. Generally used in conjunction with "stop-process"
+1. Get-Process: Outputs a list of the processes running along with their process IDs. Generally used in conjunction with "stop-process".
 
+![get-process](https://mkm662169.github.io/images/get-process.jpg)
 2. New-Item -Path "Path" -ItemType "File/Folder": A command used for the creation of files and directories.
 
 3. dir: Used to list the files and directories of the current working directory.
