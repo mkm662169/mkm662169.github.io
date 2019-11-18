@@ -59,3 +59,9 @@ The following is a guide on a few basic commands useful in Windows Powershell, D
 2. git commit -m "Custom_message": Used to clarify the commit to be made. Displays teh message to master for approval of the commit.
 
    ![commit message](https://github.com/mkm662169/mkm662169.github.io/blob/master/images/git_commit-m.JPG)
+
+# Go to:
+
+[Virtualization vs. Containerization](https://github.com/dotgovgsb/mkm662169.github.io/blob/master/blog-post.md)
+
+**Link to other page**
