@@ -58,8 +58,8 @@ The following is a guide on a few basic commands useful in Windows Powershell, D
 
 1. git checkout "branch_name": Used to change from one branch to the branch specified.
 
-   ![checkout](https://github.com/mkm662169/mkm662169.github.io/blob/master/images/get-process.JPG)
+   ![checkout](https://github.com/mkm662169/mkm662169.github.io/blob/master/images/git_checkout.JPG)
 
 2. git commit -m "Custom_message": Used to clarify the commit to be made. Displays teh message to master for approval of the commit.
 
-   ![commit message](https://github.com/mkm662169/mkm662169.github.io/blob/master/images/get-process.JPG)
+   ![commit message](https://github.com/mkm662169/mkm662169.github.io/blob/master/images/git_commit-m.JPG)
