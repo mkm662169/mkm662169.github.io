@@ -13,12 +13,8 @@ The following is a guide on a few basic commands useful in Windows Powershell, D
 2. New-Item -Path "Path" -ItemType "File/Folder": A command used for the creation of files and directories.
 
    ![new-item](https://github.com/mkm662169/mkm662169.github.io/blob/master/images/newitem.JPG)
-   
-3. dir: Used to list the files and directories of the current working directory.
 
-   ![dir](https://github.com/mkm662169/mkm662169.github.io/blob/master/images/get-process.JPG)
-
-4. cd "Path": Used to change from the current directory to the specified path.
+3. cd "Path": Used to change from the current directory to the specified path.
 
    ![change directory](https://github.com/mkm662169/mkm662169.github.io/blob/master/images/cd_forw.JPG)
    
